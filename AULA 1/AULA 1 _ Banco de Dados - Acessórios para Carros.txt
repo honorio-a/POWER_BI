@@ -1,0 +1,137 @@
+﻿========Relatório de Vendas=======================
+-
+-
+-
+-
+-
+-
+===============================================
+
+
+
+
+Produto		Data da Venda	Vendedor		Mês	Estado		Tipo de Cliente	Quantidade	 Preço 
+Rodas de Liga Leve		01/01/2018	Leandro		Janeiro	MG		Pessoa Física	10	 681,00 
+Rodas Forjadas		02/02/2018	Alberto		Julho	AC		Pessoa Jurídica	20	 900,00 
+Rodas de Aço		03/02/2018	Carlos		Janeiro	PE		Pessoa Jurídica	30	 1.000,00 
+Rodas de Liga Leve		07/04/2018	Juraci		Abril	MA		Pessoa Jurídica	31	 1.200,00 
+Rodas Forjadas		09/05/2018	Simoni		Setembro	AM		Pessoa Física	32	 1.780,00 
+Rodas de Aço		10/06/2018	Charles Chaplin		Março	DF		Pessoa Jurídica	33	 1.510,00 
+										
+										
+										
+										
+										
+Rodas de Liga Leve		12/07/2018	Carlitos		Agosto	GO		Pessoa Física	45	 2.000,00 
+Rodas Forjadas		13/08/2018	Renato Chaves		Setembro	MG		Pessoa Física	103	 2.456,00 
+Rodas de Aço		14/09/2018	Fábiola		Setembro	AC		Pessoa Física	102	 2.598,67 
+Rodas de Aço		16/10/2018	Fábiola		Outubro	SE		Pessoa Jurídica	101	 2.867,52 
+Rodas de Aço		17/11/2018	Leandro		Fevereiro	MS		Pessoa Jurídica	99	 780,00 
+Rodas de Aço		19/12/2018	Alberto		Agosto	DF		Pessoa Jurídica	91	 980,00 
+										
+										
+										
+										
+										
+Rodas de Aço		20/01/2019	Carlos		Maio	RN		Pessoa Física	91	 1.180,00 
+Rodas de Aço		21/02/2019	Juraci		Setembro	PE		Pessoa Jurídica	91	 1.380,00 
+Rodas de Aço		25/03/2019	Simoni		Maio	TO		Pessoa Física	89	 1.580,00 
+Rodas de Aço		26/04/2019	Charles Chaplin		Janeiro	RN		Pessoa Física	89	 1.780,00 
+Rodas de Aço		28/05/2019	Carlitos		Janeiro	GO		Pessoa Física	88	 1.980,00 
+										
+Rodas de Liga Leve		29/06/2019	Renato Chaves		Outubro	SE		Pessoa Jurídica	86	 2.180,00 
+Rodas de Liga Leve		31/07/2019	Fábiola		Dezembro	RN		Pessoa Jurídica	85	 2.380,00 
+Rodas de Liga Leve		01/09/2019	Fábiola		Setembro	RJ		Pessoa Jurídica	82	 2.580,00 
+										
+										
+										
+Rodas de Liga Leve		03/10/2019	Leandro		Agosto	AC		Pessoa Física	82	 2.780,00 
+Rodas de Liga Leve		04/11/2019	Alberto		Maio	PA		Pessoa Jurídica	81	 2.980,00 
+Rodas de Liga Leve		06/12/2019	Leandro		Janeiro	PI		Pessoa Física	80	 3.180,00 
+Rodas de Liga Leve		07/01/2020	Alberto		Setembro	PE		Pessoa Física	80	 3.380,00 
+Rodas de Liga Leve		08/02/2020	Carlos		Maio	ES		Pessoa Física	75	 1.870,00 
+Rodas de Liga Leve		01/01/2018	Juraci		Agosto	RO		Pessoa Jurídica	74	 1.910,00 
+Rodas de Liga Leve		02/02/2018	Simoni		Outubro	PI		Pessoa Jurídica	73	 2.240,00 
+Rodas de Aço		03/02/2018	Charles Chaplin		Dezembro	RN		Pessoa Jurídica	73	 2.479,00 
+Rodas de Aço		07/04/2018	Carlitos		Agosto	PB		Pessoa Física	70	 3.200,00 
+Rodas de Aço		09/05/2018	Renato Chaves		Dezembro	AP		Pessoa Jurídica	70	 3.921,00 
+Rodas de Aço		10/06/2018	Fábiola		Abril	BA		Pessoa Física	68	 780,00 
+Rodas de Aço		12/07/2018	Fábiola		Setembro	BA		Pessoa Física	64	 980,00 
+Rodas de Liga Leve		13/08/2018	Leandro		Agosto	PB		Pessoa Física	63	 1.020,00 
+Rodas Forjadas		14/09/2018	Alberto		Agosto	BA		Pessoa Jurídica	62	 1.340,00 
+Rodas de Aço		16/10/2018	Carlos		Outubro	RS		Pessoa Jurídica	62	 1.870,00 
+Rodas de Liga Leve		17/11/2018	Juraci		Fevereiro	SC		Pessoa Jurídica	62	 1.910,00 
+Rodas Forjadas		19/12/2018	Simoni		Outubro	CE		Pessoa Física	60	 2.240,00 
+Rodas de Aço		20/01/2019	Charles Chaplin		Maio	RN		Pessoa Jurídica	59	 2.479,00 
+Rodas de Liga Leve		21/02/2019	Carlitos		Junho	PE		Pessoa Física	58	 3.200,00 
+Rodas Forjadas		25/03/2019	Renato Chaves		Janeiro	SP		Pessoa Física	57	 3.921,00 
+Rodas de Aço		26/04/2019	Fábiola		Agosto	CE		Pessoa Física	56	 780,00 
+Rodas de Aço		28/05/2019	Fábiola		Maio	PI		Pessoa Jurídica	54	 980,00 
+Rodas de Aço		29/06/2019	Leandro		Outubro	AM		Pessoa Jurídica	53	 1.020,00 
+Rodas de Aço		31/07/2019	Alberto		Dezembro	MG		Pessoa Jurídica	53	 1.340,00 
+Rodas de Aço		01/09/2019	Leandro		Fevereiro	GO		Pessoa Física	52	 1.870,00 
+Rodas de Aço		03/10/2019	Alberto		Março	MG		Pessoa Jurídica	51	 1.910,00 
+Rodas de Aço		04/11/2019	Carlos		Novembro	RN		Pessoa Física	49	 2.240,00 
+Rodas de Aço		06/12/2019	Juraci		Julho	ES		Pessoa Física	49	 2.479,00 
+Rodas de Aço		07/01/2020	Simoni		Dezembro	RS		Pessoa Física	49	 3.200,00 
+Rodas de Liga Leve		08/02/2020	Charles Chaplin		Outubro	SE		Pessoa Jurídica	48	 3.921,00 
+Rodas de Liga Leve		01/01/2018	Carlitos		Dezembro	MT		Pessoa Jurídica	47	 780,00 
+Rodas de Liga Leve		02/02/2018	Renato Chaves		Agosto	RJ		Pessoa Jurídica	47	 980,00 
+Rodas de Liga Leve		03/02/2018	Fábiola		Maio	SC		Pessoa Física	45	 1.020,00 
+Rodas de Liga Leve		07/04/2018	Fábiola		Janeiro	RS		Pessoa Jurídica	45	 1.340,00 
+Rodas de Liga Leve		09/05/2018	Leandro		Setembro	ES		Pessoa Física	44	 1.870,00 
+Rodas de Liga Leve		10/06/2018	Alberto		Junho	MT		Pessoa Física	40	 1.910,00 
+Rodas de Liga Leve		12/07/2018	Carlos		Novembro	BA		Pessoa Física	39	 2.240,00 
+Rodas de Liga Leve		13/08/2018	Juraci		Outubro	ES		Pessoa Jurídica	38	 2.479,00 
+Rodas de Liga Leve		14/09/2018	Simoni		Junho	MT		Pessoa Jurídica	38	 3.200,00 
+Rodas de Aço		16/10/2018	Charles Chaplin		Abril	PA		Pessoa Jurídica	35	 3.921,00 
+Rodas de Aço		17/11/2018	Carlitos		Dezembro	PB		Pessoa Física	35	 780,00 
+Rodas de Aço		19/12/2018	Renato Chaves		Abril	MS		Pessoa Jurídica	31	 980,00 
+Rodas de Aço		20/01/2019	Fábiola		Junho	PR		Pessoa Física	28	 1.020,00 
+Rodas de Aço		21/02/2019	Fábiola		Dezembro	RR		Pessoa Física	26	 1.340,00 
+Rodas de Liga Leve		25/03/2019	Leandro		Junho	RN		Pessoa Física	15	 1.870,00 
+Rodas Forjadas		26/04/2019	Alberto		Agosto	BA		Pessoa Jurídica	25	 1.910,00 
+Rodas de Aço		28/05/2019	Leandro		Junho	AP		Pessoa Jurídica	20	 2.240,00 
+Rodas de Liga Leve		29/06/2019	Alberto		Junho	RR		Pessoa Jurídica	100	 2.479,00 
+Rodas Forjadas		31/07/2019	Carlos		Fevereiro	RN		Pessoa Física	101	 3.200,00 
+Rodas de Aço		01/09/2019	Juraci		Novembro	PE		Pessoa Jurídica	20	 3.921,00 
+Rodas de Liga Leve		03/10/2019	Simoni		Abril	PE		Pessoa Física	33	 780,00 
+Rodas Forjadas		04/11/2019	Charles Chaplin		Setembro	TO		Pessoa Física	45	 980,00 
+Rodas de Aço		06/12/2019	Carlitos		Novembro	MS		Pessoa Física	60	 1.020,00 
+Rodas de Aço		07/01/2020	Renato Chaves		Janeiro	MA		Pessoa Jurídica	100	 1.340,00 
+Rodas de Aço		08/02/2020	Fábiola		Maio	MS		Pessoa Jurídica	101	 1.870,00 
+Rodas de Aço		01/01/2018	Fábiola		Maio	PB		Pessoa Jurídica	102	 1.910,00 
+Rodas de Aço		02/02/2018	Leandro		Novembro	RO		Pessoa Física	103	 2.240,00 
+Rodas de Aço		03/02/2018	Alberto		Agosto	PB		Pessoa Jurídica	104	 2.479,00 
+Rodas de Aço		07/04/2018	Carlos		Março	MA		Pessoa Física	105	 3.200,00 
+Rodas de Aço		09/05/2018	Juraci		Abril	PB		Pessoa Física	106	 3.921,00 
+Rodas de Aço		10/06/2018	Simoni		Janeiro	PR		Pessoa Física	107	 780,00 
+Rodas de Liga Leve		12/07/2018	Charles Chaplin		Novembro	MA		Pessoa Jurídica	108	 980,00 
+Rodas de Liga Leve		13/08/2018	Carlitos		Agosto	MG		Pessoa Jurídica	109	 1.020,00 
+Rodas de Liga Leve		14/09/2018	Renato Chaves		Setembro	SP		Pessoa Jurídica	110	 1.340,00 
+Rodas de Liga Leve		16/10/2018	Fábiola		Dezembro	RO		Pessoa Física	4	 1.870,00 
+Rodas de Liga Leve		17/11/2018	Fábiola		Março	SC		Pessoa Jurídica	3	 1.910,00 
+Rodas de Liga Leve		19/12/2018	Leandro		Outubro	ES		Pessoa Física	3	 2.240,00 
+Rodas de Liga Leve		20/01/2019	Alberto		Junho	CE		Pessoa Física	108	 2.479,00 
+Rodas de Liga Leve		21/02/2019	Leandro		Setembro	RN		Pessoa Física	108	 3.200,00 
+Rodas de Liga Leve		25/03/2019	Alberto		Julho	SE		Pessoa Jurídica	108	 3.921,00 
+Rodas de Liga Leve		26/04/2019	Carlos		Setembro	PA		Pessoa Jurídica	106	 780,00 
+Rodas de Aço		28/05/2019	Juraci		Dezembro	DF		Pessoa Jurídica	106	 980,00 
+Rodas de Aço		29/06/2019	Simoni		Julho	GO		Pessoa Física	105	 1.020,00 
+Rodas de Aço		31/07/2019	Charles Chaplin		Agosto	RR		Pessoa Jurídica	105	 1.340,00 
+Rodas de Aço		01/09/2019	Carlitos		Novembro	TO		Pessoa Física	105	 1.870,00 
+Rodas de Aço		03/10/2019	Renato Chaves		Junho	CE		Pessoa Física	104	 1.910,00 
+Rodas de Liga Leve		04/11/2019	Fábiola		Setembro	AL		Pessoa Física	104	 2.240,00 
+Rodas Forjadas		06/12/2019	Fábiola		Abril	MG		Pessoa Jurídica	102	 2.479,00 
+Rodas de Aço		07/01/2020	Leandro		Outubro	MG		Pessoa Jurídica	100	 3.200,00 
+Rodas de Liga Leve		08/02/2020	Alberto		Maio	AP		Pessoa Jurídica	97	 3.921,00 
+Rodas Forjadas		11/03/2020	Carlos		Julho	RS		Pessoa Física	96	 780,00 
+Rodas de Aço		12/04/2020	Juraci		Abril	SC		Pessoa Jurídica	93	 980,00 
+Rodas de Liga Leve		14/05/2020	Simoni		Junho	RO		Pessoa Física	90	 1.180,00 
+Rodas Forjadas		15/06/2020	Charles Chaplin		Outubro	RS		Pessoa Física	90	 1.380,00 
+Rodas de Aço		17/07/2020	Carlitos		Abril	RO		Pessoa Física	90	 1.580,00 
+Rodas de Aço		18/08/2020	Renato Chaves		Janeiro	SE		Pessoa Jurídica	89	 1.780,00 
+Rodas de Aço		19/09/2020	Fábiola		Março	RR		Pessoa Jurídica	87	 1.980,00 
+Rodas de Aço		21/10/2020	Fábiola		Abril	RR		Pessoa Jurídica	86	 2.180,00 
+Rodas de Aço		22/11/2020	Leandro		Novembro	MG		Pessoa Física	86	 2.380,00 
+Rodas de Aço		24/12/2020	Alberto		Fevereiro	PE		Pessoa Jurídica	85	 2.580,00 
